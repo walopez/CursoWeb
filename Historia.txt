@@ -1,5 +1,9 @@
 Hola amigos, ahora en la clase de Hit
 sevamos a ver que tal
 se hizo un cambio para probar
+<<<<<<< HEAD
 Esta es una rama llamada list
 agregada al final
+
+ESTE ARCHIVO ES EL FINAL DE MASTER
+
